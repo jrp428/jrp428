@@ -1,6 +1,5 @@
-<hr style="height: 2px; border: none; background-color: #DA3735;" />
+<p align="center"><img src="assets/div.png" height="4px"></p>
 <br>
-
 
 ## Hello!
 
@@ -15,10 +14,11 @@ Find me on [LinkedIn](https://www.linkedin.com/in/janmar-gian-pastorin-405170314
 ## Languages & Tools
 - 🌐 Front End - JS, HTML, CSS  
 - 📊 Back End - Python, Java, SQL  
-- 🎥 Adobe Creative Cloud - After Effects, Premiere, Photoshop, Illustrator
-
+- 🎥 Adobe Creative Cloud - After Effects, Premiere, Photoshop, Illustrator  
 
 <br>
-<hr style="height: 2px; border: none; background-color: #DA3735;" />
-<img src="assets/Stacked RGB.svg" width="20px" style="display: block; margin: 0 auto">
+<br>
+
+<p align="center"><img src="assets/div.png" height="4px"></p>
+<p align="center"><img src="assets/Stacked RGB.svg" width="20px"></p>
 
