@@ -3,8 +3,8 @@
 
 ## Hello!
 
-I'm **Gian.**   
-I'm a web dev student at ASU, and I enjoy helping communities connect and grow through graphic media and technology.
+I'm **Gian**, currently a web dev student at ASU.  
+I enjoy helping communities connect and grow through graphic media and technology.
 
 
 ## Contact
